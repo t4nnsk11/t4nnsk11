@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm t4nnsk11 👋
 
-<!--
-**t4nnsk11/t4nnsk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | SOC Analysis | Network Security | Python
 
-Here are some ideas to get you started:
+I'm an IT and Cybersecurity graduate focused on developing practical skills in security operations, threat detection, digital forensics, and network security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+
+- **Security:** SOC Monitoring, SIEM, Incident Response, Network Security
+- **Programming:** Python, Bash
+- **Tools:** Kali Linux, Wireshark, Nmap, VMware
+- **Networking:** TCP/IP, DNS, HTTP, SSH, Port Scanning
+- **Operating Systems:** Linux, Windows
+
+### Featured Project
+
+**[Python Network Scanner](https://github.com/t4nnsk11/python-network-scanner)**
+
+A multithreaded TCP port scanner developed in Python with configurable scanning parameters, JSON reporting, and automated unit tests.
+
+### Currently Learning
+
+- Security Operations Center (SOC) workflows
+- Threat Detection and MITRE ATT&CK
+- Digital Forensics and Incident Response
+- Security Automation with Python
+
+### Upcoming Projects
+
+- SOC Monitoring Lab with Wazuh
+- Network Traffic Analyzer
+- Threat Intelligence Dashboard
+- Digital Forensics Toolkit
